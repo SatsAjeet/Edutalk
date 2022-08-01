@@ -7,7 +7,7 @@ Here comesthis website where many people can register as an Instructor and as we
 Now the student can chat with them or make a video call to reslove any query for which the instructor will charge them a minimal charge. Each instructor can decide what charge they are going to keep on each minute of communication. And according to that charge and the time a student has communicated with them, the wallet balance of student will be deducted.
 Student can also recharge his wallet when he need a conversation.
 
-<a href="https://edutechssg.netlify.app/">![Logo](https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/edu/art/edu3-c41320b0a3.jpg)</a>
+<a href="https://edutechssg.netlify.app/"><img src="https://p.kindpng.com/picc/s/136-1367919_transparent-handshake-icon-png-transparent-education-icons-png.png" width="200" height="200"></a>
 ## Technologies Used
 
 #### Tech Stack-
